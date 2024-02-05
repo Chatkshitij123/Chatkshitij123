@@ -10,7 +10,7 @@ MongoDB Express React.JS Node.JS Next.js NestJS HTML5 CSS3 MUI JavaScript Tailwi
 <h2 align="left">💫 About Me:<br>I'm a passionate Full Stack Developer with over 2 years of experience.</h2>
 
 ###
-
+<h2 align="left">💫 💻 Tech Stack:<br></h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />

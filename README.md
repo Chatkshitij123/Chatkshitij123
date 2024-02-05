@@ -51,5 +51,5 @@
 
 ✍️ Random Dev Quote
 
- Making things easy is hard.
-- Ted Nelson
+<h2 color="#21262D">"Making things easy is hard."</h2> 
+                                                  <h3>- Ted Nelson</h3>- Ted Nelson

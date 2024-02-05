@@ -11,7 +11,7 @@ MongoDB Express React.JS Node.JS Next.js NestJS HTML5 CSS3 MUI JavaScript Tailwi
 
 ###
 <div align="left">
-<h2 align="left">💫 💻 Tech Stack:<br></h2>
+<h2 align="left">💻 Tech Stack:<br></h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />

@@ -51,5 +51,5 @@
 
 ✍️ Random Dev Quote
 
-<h2 color={"#21262D"}>"Making things easy is hard."</h2> 
-                                                  <h3>- Ted Nelson</h3>- Ted Nelson
+<h4 color={"#21262D"}>"Making things easy is hard."</h4> 
+                                                  <h5>- Ted Nelson</h5>

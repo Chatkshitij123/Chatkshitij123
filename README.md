@@ -1,11 +1,5 @@
-💫 About Me:
-🌱 Learning something new everyday
-👨🏻‍💻 I'm looking forward to collaborate with other dev's
 
-💻 Tech Stack:
-MongoDB Express React.JS Node.JS Next.js NestJS HTML5 CSS3 MUI JavaScript TailwindCSS Netlify Vercel C C++ Linux Canva Google Cloud
 
-📊 GitHub Stats:
   
 <h2 align="left">💫 About Me:<br>I'm a passionate Full Stack Developer with over 2 years of experience.</h2>
 
@@ -55,6 +49,7 @@ MongoDB Express React.JS Node.JS Next.js NestJS HTML5 CSS3 MUI JavaScript Tailwi
 
 
 <div align="left">
+📊 GitHub Stats:
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />

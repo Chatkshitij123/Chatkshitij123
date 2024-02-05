@@ -1,4 +1,4 @@
-<h3 align="left">💫 About Me:<br>Hi I'm Kshitij Chaturvedi <br></h3>
+<h3 align="left">💫 About Me: <br> Hi I'm Kshitij Chaturvedi <br></h3>
 <h4>I'm a Full Stack Developer with over 2 years of experience.</h4>
 
 <div align="left">
